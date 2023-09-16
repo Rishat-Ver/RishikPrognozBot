@@ -1,0 +1,10 @@
+autopep8==2.0.2
+distlib==0.3.7
+filelock==3.12.2
+platformdirs==3.9.1
+pycodestyle==2.11.0
+python-dotenv==0.21.1
+tomli==2.0.1
+virtualenv==20.24.1
+pyowm~=2.10.0
+pyTelegramBotAPI~=3.7.2
